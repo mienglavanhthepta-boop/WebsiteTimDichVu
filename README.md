@@ -4,11 +4,12 @@
 
 ---
 
-## 👤 Sinh viên thực hiện (Contributor)
+## 👥 Bảng phân công thực hiện công việc (Contributors)
 
-| Họ và Tên | MSSV | Tài khoản GitHub | Công việc thực hiện | Mức độ hoàn thành |
-| :--- | :---: | :---: | :--- | :-: |
-| **Mienglavanh Thepta** | `65139012` | [@mienglavanhthepta-boop](https://github.com/mienglavanhthepta-boop) | Phân tích thiết kế CSDL, xây dựng toàn bộ chức năng Frontend & Backend (Trang chủ, Tìm kiếm & Lọc, Chi tiết dịch vụ, Đặt lịch hẹn, Đánh giá sao, Kênh đối tác, Quản trị Admin) | 100% |
+| STT | Họ và Tên | Công việc | Mức độ hoàn thành (%) |
+| :-: | :---: | :--- | :-: |
+| 1 | **Trưởng nhóm**<br/>**Mienglavanh Thepta** | - Thiết kế cơ sở dữ liệu và giao diện chung (`database.sql`, `config/db.php`, `includes/`, `assets/`)<br/>- Đăng nhập, Đăng ký và Hồ sơ cá nhân (`login.php`, `register.php`, `logout.php`, `profile.php`)<br/>- Kênh đối tác và Đăng/Quản lý dịch vụ (`provider_dashboard.php`, `service_form.php`)<br/>- Trang Quản trị hệ thống (`admin_dashboard.php`)<br/>- Kiểm thử và viết Báo cáo | 100% |
+| 2 | **Xaiyadeth Phonexai** | - Trang chủ, Tìm kiếm và Lọc dịch vụ (`index.php`, `search.php`)<br/>- Chi tiết dịch vụ, Đặt lịch hẹn và Đánh giá (`service_detail.php`)<br/>- Trang Lịch đã đặt (`booking_history.php`)<br/>- Kiểm thử và viết Báo cáo | 100% |
 
 ---
 
